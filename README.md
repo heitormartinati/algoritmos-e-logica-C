@@ -16,6 +16,8 @@ Algoritmos e Lógica 2:
 - Ponteiros
 - Alocação dinâmica
 - Modularização
+- Recursividade
+- Arquivos
 
 Tecnologias:
 - C
